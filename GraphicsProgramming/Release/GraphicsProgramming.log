@@ -1,0 +1,180 @@
+﻿  Camera.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(11,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(12,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(16,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(47,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(47,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(60,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(60,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(66,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(66,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(83,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(89,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(95,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(101,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(123,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(128,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(128,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(133,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(134,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(135,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(136,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(137,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(138,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(162,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(168,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(180,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(186,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Camera.cpp(192,20): warning C4305: '=': truncation from 'double' to 'float'
+  Geometry.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(55,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(56,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(64,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(64,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(64,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(65,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(65,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(65,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(68,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(68,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(68,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(69,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(69,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(69,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(72,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(72,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(72,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(73,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(73,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(73,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(76,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(76,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(76,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(77,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(77,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(77,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(94,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(103,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(103,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(104,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(104,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(108,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(108,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(109,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(109,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(122,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(123,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(124,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(125,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(131,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(132,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(141,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(142,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(145,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(151,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(152,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(155,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(161,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(162,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(165,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(171,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(172,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(175,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(191,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(192,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(195,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(200,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(201,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(204,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(209,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(210,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(213,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(218,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(219,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(222,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(227,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(228,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(231,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(236,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(237,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(240,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(245,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(246,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(249,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(254,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(255,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(258,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(263,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(264,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Geometry.cpp(267,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Light.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Light.cpp(70,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Light.cpp(86,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Main.cpp
+  Model.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Model.cpp(18,58): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [21]' to 'LPCWSTR'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Model.cpp(18,20): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : see declaration of 'MessageBoxW'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Model.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(187,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(188,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(195,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(196,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(198,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(203,39): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(211,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(212,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(220,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(221,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(229,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(230,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(238,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(239,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(247,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(248,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(256,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(257,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(265,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(267,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(273,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(274,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(275,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(283,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(284,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(294,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(295,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(305,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(306,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(312,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(313,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(320,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(321,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(329,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(331,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(338,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(339,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(375,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(376,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(388,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(390,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(397,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(399,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(410,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(411,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(420,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(422,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(428,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(430,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(445,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(447,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(464,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(465,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(476,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(488,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Scene.cpp(520,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Shadow.cpp
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Shadow.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+D:\University Stuff\CMP 203\cmp203-coursework-iRemixUK\GraphicsProgramming\GraphicsProgramming\Shadow.cpp(81,10): warning C4018: '>=': signed/unsigned mismatch
+  Skybox.cpp
